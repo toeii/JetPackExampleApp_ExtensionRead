@@ -27,7 +27,6 @@ Build Extension Read App in Android JetPack MVVM and QMUI.
 | **ktx core**               |
 | **lifecycle**              |
 | **paging**                 |
-| **lifecycle**              |
 | **room**                   |
 | **navigation**             |
 | **retrofit**               |
