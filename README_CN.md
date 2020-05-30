@@ -27,7 +27,6 @@
 | **ktx core**               |
 | **lifecycle**              |
 | **paging**                 |
-| **lifecycle**              |
 | **room**                   |
 | **navigation**             |
 | **retrofit**               |
